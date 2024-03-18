@@ -1,0 +1,52 @@
+body {
+    background-color: DeepSkyBlue;
+    text-align: center;
+    font-family: "Battanbang", system-ui;
+}
+
+#copyright {
+    font-size: 10px;
+    color: FloralWhite;
+}
+
+.essay {
+    margin: 10 px;
+    background-color: Aquamarine;
+    text-align: left;
+}
+
+.paragraph {
+    font-family: "Times New Roman", serif;
+    text-indent: 30px;
+}
+
+.bg {
+    background-image: url("image1.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h {
+    color: FloralWhite;
+    text-shadow: 2px 2px 6px black;
+}
+
+#more {
+    margin-top: 400px;
+}
+
+.c {
+    text-shadow: 6px 6px 8px black;
+}
+
+.i2 {
+    text-align: center;
+    height: 400px;
+}
+
+.i3 {
+    text-align: center;
+    height: 400px;
+}
